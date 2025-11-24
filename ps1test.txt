@@ -1,1 +1,1 @@
-"Hello from PowerShell via GH!" | Out-File ".\hello.txt"
+"Hello from PowerShell via GH!" | Out-File "$Env:USERPROFILE\Desktop\hello.txt"
